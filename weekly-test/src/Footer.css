@@ -1,0 +1,34 @@
+.footer-main{
+    /* border: 2px solid red; */
+    height:60vh;
+    width:100%;
+    display: flex;
+    justify-content: end;
+    background-color: #18263b;
+}
+
+.footer-css{
+    /* border: 2px solid green; */
+    width: 20%;
+    height: 100%;
+    margin-right: 3rem;
+   text-align: center;
+    
+}
+
+.footer-css h2{
+    margin-top: 6rem;
+    color: #65a9fc;
+}
+
+.footer-css p{
+    color: white;
+}
+
+.footer-css img{
+    margin-top:3rem;
+    width:5rem;
+    height: 4rem;
+}
+
+
